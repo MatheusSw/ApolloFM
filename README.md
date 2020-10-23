@@ -3,17 +3,18 @@
     ApolloFM is a web-application meant to connect Twitter & LastFM users who love music and sharing their latest trends. It consists of being able to send a Weekly, Daily or Monthly report containing your most listened artists, albums or songs.
 Currently under development.
     
-<img src="https://cdn.dribbble.com/users/5832698/screenshots/14302044/media/eb4375b074be61c2dbf786b8510b92b0.png" alt="ApolloFM art">
     
+<img src="https://cdn.dribbble.com/users/5832698/screenshots/14302044/media/eb4375b074be61c2dbf786b8510b92b0.png" alt="ApolloFM art">
 </p>
+
+## About Laravel
+
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-
-## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
