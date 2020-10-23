@@ -2,6 +2,7 @@
 <p>
     ApolloFM is a web-application meant to connect Twitter & LastFM users who love music and sharing their latest trends. It consists of being able to send a Weekly, Daily or Monthly report containing your most listened artists, albums or songs.
 Currently under development.
+    
     <img src="https://cdn.dribbble.com/users/5832698/screenshots/14302044/media/eb4375b074be61c2dbf786b8510b92b0.png" alt="ApolloFM art">
     </p>
 <p align="center">
